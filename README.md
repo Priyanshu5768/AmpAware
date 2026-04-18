@@ -148,7 +148,6 @@ This is an educational **Mini Project** as a part of my B-Tech in Computer Scien
 ## 👨‍🎓 Author
 
 **Priyanshu Kumar**
-- Roll No. 2401331690046
 - B.Tech CSE (R) 2nd Year
 - NIET (Noida Institute of Engineering and Technology),Greater Noida
 
