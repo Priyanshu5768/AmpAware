@@ -108,7 +108,9 @@ streamlit run app.py
 
 ## ☁️ Deployment
 
-Coming Soon....
+### Deployed on Streamlit.io
+
+https://ampaware-ai.streamlit.app/
 
 ---
 
