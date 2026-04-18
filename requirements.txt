@@ -1,0 +1,14 @@
+# AmpAware Core Dependencies
+# Web framework for the dashboard
+streamlit>=1.56.0
+
+# Data manipulation and numerical processing
+# Note: pandas 3.0+ requires Python 3.10+
+pandas>=3.0.2
+numpy>=2.4.4
+
+# Visualization Libraries
+# Interactive charting
+plotly>=6.0.0
+# Static plotting
+matplotlib>=3.8.0
